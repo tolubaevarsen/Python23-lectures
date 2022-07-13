@@ -1,0 +1,17 @@
+ctrl + alt + t - open window terminal
+ls - prosmotr soderjimogo tekushey direktorii
+ls put do direktorii - prosmotr soderjimogo ukazannoy direktorii
+ls -a - prosmotr skrytyh failov direktorii
+mkdir nazvanie direktorii - sozdaniye direktorii
+cd put do direktorii - smena direktorii
+"." - ssylka na tekushuiu direktoriyu
+".." - ssylka na direktoriu vyshe/roditelskui
+
+
+touch - создание файлов в текущей директории
+rm имя файла удаление файлов
+rm -rf имя файла принудительное удаление файла
+cat имя файла вывод содержимого файла в трминал
+cat имя файла >>  имя другого файла дозапись содержимого одного файла в другой 
+echo "kakoy to text" - vyvod ukazannogo texta v terminal
+echo "kakoy to text" >> nazvaniye fayla
