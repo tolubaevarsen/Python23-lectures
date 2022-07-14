@@ -39,3 +39,4 @@ git branch branch_name - создание новой ветки
 
 git checkout branch_name
 git switch branch_name - переход на указанную ветку
+git pull название_связи название_ветки - стягивание изменений с удаленного репозитория, с указанной ветки
