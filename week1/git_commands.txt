@@ -32,3 +32,10 @@ git push origin branch_name - отправка версии кода на github
 git clone ссылка_на_удаленный_репозиторий - склонирование
 
 git diff - просмотр внесенных изменений
+
+git branch -  вывод списка веток в терминал(звездочка -  активная ветка)
+
+git branch branch_name - создание новой ветки
+
+git checkout branch_name
+git switch branch_name - переход на указанную ветку
